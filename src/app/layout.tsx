@@ -10,6 +10,17 @@ export const metadata: Metadata = {
   description: "Technological inclusion ",
   keywords:
     "Technological inclusion, Technonology, financial inclusion, Tridev, Tridev Technologies , Educational inclusion, Medical inclusion , Inclusion , Oluwatobiloba Co-fouuder of Tridev, Oluyemi Co founder of Tridev, Samuel Co founder of Tridev, Startup in nigeria ,  nigeria best Under 18 Startup ",
+  openGraph: {
+    type: "website",
+    title: "Tridev",
+    description: "Technological inclusion",
+    siteName: "Tridev Technologies",
+    images: [
+      {
+        url: "https://example.com/og.png",
+      },
+    ],
+  },
 };
 
 export default function RootLayout({
