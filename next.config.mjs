@@ -17,6 +17,11 @@ const nextConfig = {
         hostname: "pbs.twimg.com",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "media.licdn.com",
+        port: "",
+      },
     ],
   },
 };

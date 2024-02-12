@@ -7,7 +7,7 @@ const people = [
     name: " Oluwatobiloba Ajiboye",
     designation: "Cofounder & CTO",
     image:
-      "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3387&q=80",
+      "https://pbs.twimg.com/profile_images/1747974890710351872/UKGmGgEX_400x400.jpg",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const people = [
     name: "Azeez Samuel",
     designation: "Cofounder & CTO",
     image:
-      "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "https://media.licdn.com/dms/image/D4E03AQHgbn-QB6O3IA/profile-displayphoto-shrink_800_800/0/1702209695489?e=2147483647&v=beta&t=jZ1N3GmjPeqFy-GwX9zb-aLX84egUF7DaMdB_OgKruk",
   },
   {
     id: 4,
