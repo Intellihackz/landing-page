@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     siteName: "Tridev Technologies",
     images: [
       {
-        url: "https://example.com/og.png",
+        url: "https://pbs.twimg.com/profile_banners/1741220327227555840/1706563837/1500x500",
       },
     ],
   },
