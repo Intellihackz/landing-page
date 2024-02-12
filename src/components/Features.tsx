@@ -1,49 +1,30 @@
-"use client"
+"use client";
 import { HoverEffect } from "./ui/card-hover-effect";
-
 export function CardHoverEffectDemo() {
   return (
     <div className="max-w-5xl mx-auto px-8">
-        <h2 className="text-center text-2xl font-bold">What we are solving</h2>
+      <h2 className="text-center text-2xl font-bold">What We're Solving</h2>
       <HoverEffect items={projects} />
     </div>
   );
 }
 export const projects = [
   {
-    title: "Stripe",
+    title: "Accessibility Barrier Breakdown",
     description:
-      "A technology company that builds economic infrastructure for the internet.",
-    link: "https://stripe.com",
+      "We're breaking down accessibility barriers by creating technology that is inclusive and accessible to everyone, regardless of ability or background.",
+    link: "#",
   },
   {
-    title: "Netflix",
+    title: "Language and Cultural Inclusivity",
     description:
-      "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
-    link: "https://netflix.com",
+      "Our platform embraces language and cultural diversity, ensuring that our technology is relevant and accessible to users worldwide.",
+    link: "#",
   },
   {
-    title: "Google",
+    title: "Customizable Solutions",
     description:
-      "A multinational technology company that specializes in Internet-related services and products.",
-    link: "https://google.com",
-  },
-  {
-    title: "Meta",
-    description:
-      "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-    link: "https://meta.com",
-  },
-  {
-    title: "Amazon",
-    description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-    link: "https://amazon.com",
-  },
-  {
-    title: "Microsoft",
-    description:
-      "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-    link: "https://microsoft.com",
+      "We offer customizable solutions to meet the unique needs of diverse users, empowering individuals to tailor their experiences according to their preferences and requirements.",
+    link: "#",
   },
 ];
