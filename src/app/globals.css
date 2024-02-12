@@ -15,8 +15,15 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+html {
+  scroll-behavior: smooth;
+}
 
+#waitlist {
+  scroll-behavior: smooth;
+}
 body {
+  scroll-behavior: smooth;
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,

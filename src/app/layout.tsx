@@ -8,6 +8,8 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Tridev Technologies INC",
   description: "Technological inclusion ",
+  keywords:
+    "Technological inclusion, Technonology, financial inclusion, Tridev, Tridev Technologies , Educational inclusion, Medical inclusion , Inclusion , Oluwatobiloba Co-fouuder of Tridev, Oluyemi Co founder of Tridev, Samuel Co founder of Tridev, Startup in nigeria ,  nigeria best Under 18 Startup ",
 };
 
 export default function RootLayout({
