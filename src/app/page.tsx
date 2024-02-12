@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-10">
       <NavbarDemo />
-      <TracingBeam
-        children={
+      <TracingBeam>
+
           <div>
             <ImagesSliderDemo />
             <div className="mt-10">
@@ -21,8 +21,7 @@ export default function Home() {
               <BackgroundBeamsDemo />
             </div>
           </div>
-        }
-      />
+      </TracingBeam>
       <Footer />
     </main>
   );
