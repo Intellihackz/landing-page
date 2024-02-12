@@ -25,9 +25,10 @@ export function BackgroundBeamsDemo() {
 
         <form action="https://formspree.io/f/xyyrwyqd" method="POST">
           <input
+            required
             name="email"
             type="email"
-            placeholder="hi@manuarora.in"
+            placeholder="hello@example.com"
             className="rounded-lg border border-neutral-800 focus:ring-2 focus:ring-teal-500  w-full relative z-10 mt-4  p-2 bg-neutral-950 placeholder:text-neutral-700"
           />
         </form>
