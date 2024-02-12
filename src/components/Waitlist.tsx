@@ -16,11 +16,11 @@ export function BackgroundBeamsDemo() {
         <p></p>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
           Welcome to Tridev, your gateway to inclusive technology solutions.
-          We're dedicated to making technology accessible and empowering for
-          everyone. From AI-driven innovations to user-friendly applications,
-          Tridev is committed to building a more inclusive digital future. Join
-          us on our mission to create technology that works for all, regardless
-          of ability, background, or experience.
+          We&apos;re dedicated to making technology accessible and empowering
+          for everyone. From AI-driven innovations to user-friendly
+          applications, Tridev is committed to building a more inclusive digital
+          future. Join us on our mission to create technology that works for
+          all, regardless of ability, background, or experience.
         </p>
 
         <form action="https://formspree.io/f/xyyrwyqd" method="POST">
