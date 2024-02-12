@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     siteName: "Tridev Technologies",
     images: [
       {
-        url: "https://pbs.twimg.com/profile_banners/1741220327227555840/1706563837/1500x500",
+        url: "https://pbs.twimg.com/profile_images/1742792917834485760/DWxtlBSe_400x400.jpg",
       },
     ],
   },
@@ -30,6 +30,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <link
+        rel="shortcut icon"
+        href="https://pbs.twimg.com/profile_images/1742792917834485760/DWxtlBSe_400x400.jpg"
+        type="image/x-icon"
+      />
       <body className={inter.className}>
         {children} <Analytics />
       </body>
