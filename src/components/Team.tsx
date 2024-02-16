@@ -14,12 +14,12 @@ const people = [
     name: "Oluyemi Sopade",
     designation: "Cofounder & COO ",
     image:
-      "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+      "https://media.licdn.com/dms/image/D4D03AQHX8a5zmP_zjQ/profile-displayphoto-shrink_800_800/0/1702210345965?e=1713398400&v=beta&t=6NJVpsy0qI2MbVbNBUs0F7y65gRuSVwI53jZvwFsPrM",
   },
   {
     id: 3,
     name: "Azeez Samuel",
-    designation: "Cofounder & CTO",
+    designation: "Cofounder & CFO",
     image:
       "https://media.licdn.com/dms/image/D4E03AQHgbn-QB6O3IA/profile-displayphoto-shrink_800_800/0/1702209695489?e=2147483647&v=beta&t=jZ1N3GmjPeqFy-GwX9zb-aLX84egUF7DaMdB_OgKruk",
   },
@@ -28,7 +28,7 @@ const people = [
     name: "Peace Robbert",
     designation: "Cofounder & CDO",
     image:
-      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "https://media.licdn.com/dms/image/D4D35AQFZSuazwjbgzQ/profile-framedphoto-shrink_200_200/0/1705912314632?e=1708689600&v=beta&t=ALC0pikB-NHIIZ3nLZFCUbbHKyfu84wn7V87MQnCH58",
   },
 ];
 
