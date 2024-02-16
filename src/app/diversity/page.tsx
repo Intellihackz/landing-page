@@ -24,7 +24,8 @@ function GridBackground() {
       <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
       <p className="text-4xl sm:text-7xl font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-500 py-8">
         Explore our commitment to diversity, celebrating unique perspectives and
-        fostering an environment where everyone's voice is heard and valued.
+        fostering an environment where everyone&apos;s voice is heard and
+        valued.
       </p>
     </div>
   );
